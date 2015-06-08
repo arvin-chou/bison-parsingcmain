@@ -1,0 +1,7 @@
+int main()
+{
+    var a = {};
+    printf();
+    printf("a=%s\n", "hello, bison");
+    "hi, flex";
+}
